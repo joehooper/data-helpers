@@ -2,7 +2,7 @@
 
 import numpy as np
 import statsmodels.api as sm
-from matplotlib import pyplot as plt
+import matplotlib.pyplot as plt
 
 def bin_list(i, n, c=0):
     '''Generate a list of integers to define bins for plotting
